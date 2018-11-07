@@ -1,5 +1,5 @@
 # ZFG-Pack
-The ZFG Pack
+This modpack is intended to be used with Technic Launcher. 
 
 Version: 2.2.7
 
