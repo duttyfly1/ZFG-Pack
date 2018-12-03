@@ -1,9 +1,9 @@
 # ZFG-Pack
 This modpack is intended to be used with Technic Launcher. 
 
-Version: 2.2.7
+Version: 2.3.2
 
-Forge version: 14.23.1.2555
+Forge version: 14.23.1.2577
 
 Github modpack only can be found <a href="https://github.com/duttyfly1/ZFG-Pack/tree/modpack">here</a> 
 
