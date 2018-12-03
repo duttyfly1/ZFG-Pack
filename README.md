@@ -5,9 +5,9 @@ Version: 2.2.7
 
 Forge version: 14.23.1.2555
 
-Github modpack only can be found here: https://github.com/duttyfly1/ZFG-Pack/tree/modpack
+Github modpack only can be found <a href="https://github.com/duttyfly1/ZFG-Pack/tree/modpack">here</a> 
 
-Page: https://www.technicpack.net/modpack/zfg-pack.1165276
+Modpack on Technic: <a href="https://www.technicpack.net/modpack/zfg-pack.1165276">https://www.technicpack.net/modpack/zfg-pack.1165276</a>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
